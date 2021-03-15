@@ -23,7 +23,7 @@ We will remove your Personal Information from our servers upon request. You can 
 Section Two: Data Usage
 
 What does Arch Development do with my Data?
-Arch Development uses your data to check if you have completed the KeySystem and to have the ability to blacklist an user.
+Arch Development uses your data to check if you have completed the KeySystem and to have the ability to blacklist a user.
 
 Does Arch Development sell data to any other companies?
 Arch Development does not sell your private data to anyone (Tech Companies, Advertising Companies)
