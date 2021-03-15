@@ -29,7 +29,7 @@ Does Arch Development sell data to any other companies?
 Arch Development does not sell your private data to anyone (Tech Companies, Advertising Companies)
 
 How long does Arch Development store my data?
-Arch Development stores your data permanently on our Server.
+Arch Development stores your data permanently(and or until a request of removal) on our server.
 
 Section Three: Changes
 
