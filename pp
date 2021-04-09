@@ -31,7 +31,10 @@ Arch Development does not sell your private data to anyone (Tech Companies, Adve
 How long does Arch Development store my data?
 Arch Development stores your data permanently(and or until a request of removal) on our server.
 
-Section Three: Changes
+Section Three : Modifications
+If Arch's API was modified in any form, any bans from users that use that modified API won't be our fault.
+
+Section Four: Changes
 
 Changes To Privacy Policy
 We of Arch Development, reserve the right, at our sole discretion, to modify or replace the Privacy Policy at any time. If revision is material, we will make efforts to provide at least 30 days' notice prior to any new policies taking effect. What constitutes a material change will be determined at our sole discretion.
